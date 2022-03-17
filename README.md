@@ -28,7 +28,7 @@
 - HTML5
 - CSS3
 - JAVASCRIPT
-- 
+- Fonts API
 
 # Autor
 
